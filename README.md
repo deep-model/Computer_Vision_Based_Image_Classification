@@ -4,7 +4,7 @@
 ## [Veiw Project List](https://github.com/deep-model?tab=repositories)
 
 <img width="900" height="1000" alt="image" src="https://github.com/deep-model/Computer_Vision_Based_Image_Classification/blob/main/Page_1.png"/>
-<img width="800" height="1000" alt="image" src="https://github.com/deep-model/Computer_Vision_Based_Image_Classification/blob/main/Page_2.png"/>
-<img width="800" height="1000" alt="image" src="https://github.com/deep-model/Computer_Vision_Based_Image_Classification/blob/main/Page_3.png"/>
-<img width="800" height="1000" alt="image" src="https://github.com/deep-model/Computer_Vision_Based_Image_Classification/blob/main/Page_4.png"/>
-<img width="800" height="1000" alt="image" src="https://github.com/deep-model/Computer_Vision_Based_Image_Classification/blob/main/Page_5.png"/>
+<img width="800" height="1200" alt="image" src="https://github.com/deep-model/Computer_Vision_Based_Image_Classification/blob/main/Page_2.png"/>
+<img width="800" height="1200" alt="image" src="https://github.com/deep-model/Computer_Vision_Based_Image_Classification/blob/main/Page_3.png"/>
+<img width="800" height="1200" alt="image" src="https://github.com/deep-model/Computer_Vision_Based_Image_Classification/blob/main/Page_4.png"/>
+<img width="800" height="1200" alt="image" src="https://github.com/deep-model/Computer_Vision_Based_Image_Classification/blob/main/Page_5.png"/>
